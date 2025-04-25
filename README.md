@@ -1,4 +1,5 @@
-# fewd1-demo1
-A demo repository to learn about gitHub
+# FEWD1-DEMO1
+FEWD Assignment 1
 
-Hey, I'm leaning about GitHub
+## Introductions
+Hi there, I'm *Esau*!
